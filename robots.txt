@@ -1,0 +1,5 @@
+# Arama motoru tarama yönergeleri.\nUser-agent: *
+Allow: /
+Disallow: /admin.html
+Disallow: /coming-soon.html
+# Add a Sitemap line after the production domain is selected and the sitemap uses that exact HTTPS domain.

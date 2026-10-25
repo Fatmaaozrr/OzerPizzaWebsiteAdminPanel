@@ -1,0 +1,4 @@
+[functions.admin-whatsapp-otp]
+# Login starts before a Supabase session exists. The function verifies the
+# phone/password with Supabase Auth and returns a session only after WhatsApp OTP.
+verify_jwt = false

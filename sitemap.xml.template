@@ -1,0 +1,11 @@
+<!-- Arama motorlarına gönderilmek üzere alan adıyla tamamlanacak site haritası şablonu. -->
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace https://YOUR-PRODUCTION-DOMAIN.example with the canonical HTTPS domain before saving as sitemap.xml. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR-PRODUCTION-DOMAIN.example/</loc></url>
+  <url><loc>https://YOUR-PRODUCTION-DOMAIN.example/privacy.html</loc></url>
+  <url><loc>https://YOUR-PRODUCTION-DOMAIN.example/cookies.html</loc></url>
+  <url><loc>https://YOUR-PRODUCTION-DOMAIN.example/terms.html</loc></url>
+  <url><loc>https://YOUR-PRODUCTION-DOMAIN.example/allergens.html</loc></url>
+  <url><loc>https://YOUR-PRODUCTION-DOMAIN.example/contact.html</loc></url>
+</urlset>
